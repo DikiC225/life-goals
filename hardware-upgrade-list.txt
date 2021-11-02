@@ -4,3 +4,5 @@ HARDWARE UPGRADE LIST
 -GPU
 *RTX 3090
 -cooling solution
+*cooling master
+*mengganti fan dengan RGB
