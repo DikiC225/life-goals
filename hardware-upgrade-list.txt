@@ -1,4 +1,6 @@
 HARDWARE UPGRADE LIST
 -CPU
+*intel core i9 10th gen
 -GPU
+*RTX 3090
 -cooling solution
