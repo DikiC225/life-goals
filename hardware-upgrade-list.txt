@@ -1,0 +1,4 @@
+HARDWARE UPGRADE LIST
+-CPU
+-GPU
+-cooling solution
